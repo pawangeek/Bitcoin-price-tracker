@@ -1,0 +1,40 @@
+h3 {
+  font-family: 'comic';
+  line-height: 1.1;
+  color: black;
+  text-align: center;
+  font-weight:bold;
+}
+
+#model {
+    margin-top:80px;
+}
+
+#side {
+  margin-top:85px;
+}
+
+h2 {
+
+  color:white;
+  text-align: center;
+  font-size: 40px;
+  margin-top:20px;
+  background-image: linear-gradient(#6d94bf, #446e9b 70%, #3e648d);
+  border-radius: 4px;
+  margin-bottom:20px;
+}
+
+h4 {
+  text-align: center;
+}
+
+h1 {
+  font-size:32px;
+}
+
+h5 {
+  margin-top:40px;
+  text-align:right;
+  font-style:italic;
+}

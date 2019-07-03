@@ -1,0 +1,12 @@
+name: Bitcoin-price-tracker
+title: Bitcoin-price-tracker
+username:
+account: pawan-jain
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1010618
+bundleId: 2197703
+url: https://pawan-jain.shinyapps.io/Bitcoin-price-tracker/
+when: 1562174857.78297
+asMultiple: FALSE
+asStatic: FALSE
